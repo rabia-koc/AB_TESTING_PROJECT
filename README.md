@@ -11,7 +11,6 @@
 * Abc.veribilimi.com’un web sitesi bilgilerini içeren bu veri setinde kullanıcıların gördükleri ve tıkladıkları reklam sayıları gibi bilgileri yer almaktadır.
 Test ve kontrol grubu olmak üzere iki ayrı veri seti vardır ve tek bir exceldedir.
     
-   ![Usability testing-amico](https://user-images.githubusercontent.com/73841520/123087553-5c2cf880-d42d-11eb-99ff-48029f3e246e.png)
 # DEĞİŞKENLER
 
 * Impression –---> Reklam görüntüleme sayısı
