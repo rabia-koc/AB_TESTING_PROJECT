@@ -17,3 +17,6 @@ Test ve kontrol grubu olmak üzere iki ayrı veri seti vardır ve tek bir exceld
 * Click –---> Tıklama (Görüntülenen reklama tıklanma sayısını belirtir)
 * Purchase –---> Satın alım (Tıklanan reklamlar sonrası satın alınan ürün sayısını belirtir)
 * Earning –---> Kazanç (Satın alınan ürünler sonrası elde edilen kazanç)
+
+# KAYNAK
+* https://bootcamp.veribilimiokulu.com/egitim/veri-bilimci-yetistirme-programi/
