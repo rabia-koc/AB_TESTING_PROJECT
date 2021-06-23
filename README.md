@@ -8,7 +8,7 @@
 
 # VERİ SETİ HİKAYESİ
 
-* Abc.veribilimi.com’un web sitesi bilgilerini içeren bu veri setinde kullanıcıların gördükleri ve tıkladıkları reklam sayıları gibi bilgileri yer almaktadır.
+* abc.veribilimi.com’un web sitesi bilgilerini içeren bu veri setinde kullanıcıların gördükleri ve tıkladıkları reklam sayıları gibi bilgileri yer almaktadır.
 Test ve kontrol grubu olmak üzere iki ayrı veri seti vardır ve tek bir exceldedir.
     
 # DEĞİŞKENLER
